@@ -79,7 +79,7 @@ const Home = () => {
               <img
                 src={impresion.data.imagen}
                 alt=""
-                className="w-[50%]"
+                className="w-[50%] rounded-l-2xl"
               />
               <div>
                 <h1 className="text-white text-3xl font-bold">
